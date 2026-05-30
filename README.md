@@ -9,10 +9,8 @@ The goal was to identify behavioral usage patterns for Members vs Casual Riders 
 - **Google Sheets** - data visualization and charts creation
 
 ## Data
-The datasets that were used in this case study were taken from a data bucket named “divvy-tripdata”:
-https://divvy-tripdata.s3.amazonaws.com/index.html
-Data License Agreement:
-https://divvybikes.com/data-license-agreement
+- The datasets that were used in this case study were taken from a data bucket named “divvy-tripdata”: https://divvy-tripdata.s3.amazonaws.com/index.html
+- Data License Agreement: https://divvybikes.com/data-license-agreement
 
 ## Key findings
 - Annual members took 82% more rides than casual riders over the 12-month period.
