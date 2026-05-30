@@ -20,7 +20,7 @@ The goal was to identify behavioral usage patterns for Members vs Casual Riders 
 - Both groups peak in summer; casual ridership drops near zero in winter while members stay above 100,000 rides.
 
 ## Key Visualizations
-![Rides By Month By Member Type](images/Rides By Month By Member Type.png)
+![Rides By Month By Member Type](images/Rides_By_Month_By_Member_Type.png)
 
 ## Final recommendations
 - Create a ride-count loyalty program that contains discounts for casual riders approaching annual membership count.
