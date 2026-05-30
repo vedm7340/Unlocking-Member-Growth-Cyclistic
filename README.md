@@ -21,6 +21,7 @@ The goal was to identify behavioral usage patterns for Members vs Casual Riders 
 
 ## Key Visualizations
 ![Rides By Month By Member Type](images/Rides_By_Month_By_Member_Type.png)
+![Rides By Rider Type and Day of Week](images/Rides_By_Rider_Type_and_Day_of_Week.png)
 
 ## Final recommendations
 - Create a ride-count loyalty program that contains discounts for casual riders approaching annual membership count.
